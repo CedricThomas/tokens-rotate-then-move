@@ -1,0 +1,20 @@
+
+{
+  "id": "tokens-rotate-then-move",
+  "name": "tokens-rotate-then-move",
+  "title": "Tokens Rotate then Move",
+  "description": "Drop cards onto the canvas as tokens",
+  "authors": [{"name":"Xaukael"}],
+  "version": "1.0.0",
+  "compatibility": {
+      "minimum": "10",
+      "verified": "10"
+    },
+  "scripts": ["tokens-rotate-then-move.js"],
+  "relationships": {
+  "requires": []
+  },
+  "url": "https://github.com/xaukael/tokens-rotate-then-move/",
+  "manifest": "https://github.com/xaukael/dtokens-rotate-then-move/raw/main/module.json",
+  "download": "https://github.com/xaukael/tokens-rotate-then-move/raw/main/tokens-rotate-then-move.zip"
+}
