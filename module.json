@@ -14,7 +14,7 @@
   "relationships": {
   "requires": []
   },
-  "url": "https://github.com/xaukael/tokens-rotate-then-move/",
-  "manifest": "https://github.com/xaukael/dtokens-rotate-then-move/raw/main/module.json",
-  "download": "https://github.com/xaukael/tokens-rotate-then-move/raw/main/tokens-rotate-then-move.zip"
+  "url": "https://github.com/CedricThomas/tokens-rotate-then-move",
+  "manifest": "https://github.com/CedricThomas/tokens-rotate-then-move/releases/download/latest/module.json",
+  "download": "https://github.com/CedricThomas/tokens-rotate-then-move/archive/refs/tags/latest.zip"
 }
